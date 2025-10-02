@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087138322417",
+    "project_id": "babylon-radio-app-dd53c",
+    "storage_bucket": "babylon-radio-app-dd53c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087138322417:android:c356c482c4a39085f0d650",
+        "android_client_info": {
+          "package_name": "com.example.babylon_radio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWANSSEHivl1UVqQ74j7sjdCfTvI5j5Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
